@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="netprog-lab3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/netprog_lab3_jar</output-path>
+    <root id="root">
+      <element id="archive" name="agents.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/manifests/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="netprog-lab3" />
+      </element>
+      <element id="library" level="project" name="jade" />
+      <element id="file-copy" path="$PROJECT_DIR$/../chatbotapi/out/artifacts/chatbotapi_jar/chatbotapi.jar" />
+    </root>
+  </artifact>
+</component>

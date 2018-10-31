@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="chatbotapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../chatbotapi/out/artifacts/chatbotapi_jar/chatbotapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
